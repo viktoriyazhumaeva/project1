@@ -4,6 +4,7 @@ from flask import render_template
 from flask  import *
 from flask import request
 
+db =create
 
 app = Flask(__name__)
 
