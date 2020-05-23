@@ -1,7 +1,7 @@
 from flask import Flask
 from flask import render_template
 
-from flask
+from flask  import *
 
 app = Flask(__name__)
 
